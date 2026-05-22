@@ -208,18 +208,18 @@ firmware_x64 = IK-MT7986V1-Q6000_sysupgrade_3.7.22_Build202604081739.bin
 update_content = 新增：\\n1.版本升级中新增体验版和内测版，可选择升级体验版抢先使用新功能
 
 [A50X-P]
-system_ver   = 3.7.21
-firmware_x64 = IK-MT7981V1-A50X-P_sysupgrade_3.7.22_Build202605200952.bin
+system_ver   = 3.7.22
+firmware_x64 = IK-MT7981V1-A50X-P_sysupgrade_3.7.22_Build202605211705.bin
 update_content = 新增：\\n1.版本升级中新增体验版和内测版，可选择升级体验版抢先使用新功能
 
 [M60X]
-system_ver   = 3.7.21
-firmware_x64 = IK-MT7981V1-M60X_sysupgrade_3.7.22_Build202605200952.bin
+system_ver   = 3.7.22
+firmware_x64 = IK-MT7981V1-M60X_sysupgrade_3.7.22_Build202605211705.bin
 update_content = 新增：\\n1.版本升级中新增体验版和内测版，可选择升级体验版抢先使用新功能
 
 [M360X]
-system_ver   = 3.7.21
-firmware_x64 = IK-MT7988V1-M360X_sysupgrade_3.7.22_Build202605200954.bin
+system_ver   = 3.7.22
+firmware_x64 = IK-MT7988V1-M360X_sysupgrade_3.7.22_Build202605211710.bin
 update_content = 新增：\\n1.版本升级中新增体验版和内测版，可选择升级体验版抢先使用新功能
 
 #=============================================================================================================
