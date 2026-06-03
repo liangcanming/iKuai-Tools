@@ -292,6 +292,8 @@ function init()
 			if release_info.BUILD_DATE < 202604140000 then
 				write_version_shell()
 			end
+		elseif release_info.VERSION_NUM >= 300070023 then
+			local var_1_1 = 0
 		else
 			down_version_all()
 		end
@@ -301,10 +303,10 @@ function init()
 		all_version = load_version_all(release_info)
 	end
 
-	local var_1_1, var_1_2 = var_1_0()
+	local var_1_2, var_1_3 = var_1_0()
 
-	if var_1_1 == false then
-		print(var_1_2)
+	if var_1_2 == false then
+		print(var_1_3)
 		os.exit(1)
 	end
 
